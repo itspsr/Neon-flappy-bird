@@ -1,0 +1,5 @@
+{
+  "name": "Flappy Bird Clone",
+  "description": "A classic Flappy Bird style game built with React and HTML5 Canvas.",
+  "requestFramePermissions": []
+}
